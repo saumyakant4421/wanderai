@@ -2,7 +2,7 @@
 
 ![WanderAI Preview](public/preview.png)
 
-**A modern, responsive, and visual landing page** for an AI-driven travel planning service — built as a frontend evaluation task showcasing clean architecture, mobile-first design, and intelligent use of cutting-edge tools.
+**A modern, responsive, and visual landing page** for an AI-driven travel planning service — showcasing clean architecture, mobile-first design, and intelligent use of cutting-edge tools.
 
 🚀 **Live Demo:** [https://wanderai-psi.vercel.app](https://wanderai-psi.vercel.app)  
 📂 **GitHub Repository:** [https://github.com/saumyakant4421/wanderai](https://github.com/saumyakant4421/wanderai)
@@ -47,6 +47,7 @@ Vercel v0 played a central role in rapid prototyping:
 | Pricing Section      | Yes                 | Tier highlighting, button styles, mobile layout |
 | Footer               | Yes                 | Link grouping, social icons, subtle gradient   |
 
+Navbar is imported as ahadcn/ui component and not generated on v0.
 All v0-generated components were manually polished for consistency, performance, and pixel-perfect responsiveness.
 
 ---
