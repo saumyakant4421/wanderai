@@ -47,7 +47,7 @@ Vercel v0 played a central role in rapid prototyping:
 | Pricing Section      | Yes                 | Tier highlighting, button styles, mobile layout |
 | Footer               | Yes                 | Link grouping, social icons, subtle gradient   |
 
-Navbar is imported as ahadcn/ui component and not generated on v0.
+Navbar is imported as shadcn/ui component and not generated on v0.
 All v0-generated components were manually polished for consistency, performance, and pixel-perfect responsiveness.
 
 ---
